@@ -19,7 +19,7 @@ Common problems solved through the concept of Eulerian and Hamiltonian graphs su
 
 Problems using the theory of tree graphs such as The minimum connector problem, solved using a type of algorithm called the greedy algorithm, Electrical circuits and Searching Trees, using breadth- first search and depth-first search methods.
 
-### Text 2 :- _The Design and Analysis of Computer Algorithms by Alfred V. Aho, John E. Hopcraft  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and Jeffrey D. Ullman_
+### Text 2 :- _The Design and Analysis of Computer Algorithms by Alfred V. Aho, John E. Hopcraft and Jeffrey D. Ullman_
 
 ### Concepts Learned :- 
 
