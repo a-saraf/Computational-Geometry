@@ -1,7 +1,7 @@
 # Computational Geometry
 Anmol Saraf
 
-## CHECKPOINT 1
+## CHECKPOINT 1 (25th March - 11th April)
 
 ### Text 1 :-  _Introduction To Graph Theory by Robin J. Wilson_
 
@@ -45,7 +45,7 @@ Another famous method is the **Quick Hull** method in which firstly a rectangle 
 2. **Divide and Conquer :-** https://www.geeksforgeeks.org/convex-hull-using-divide-and-conquer-algorithm/
 3. **Hashing :-** https://searchsqlserver.techtarget.com/definition/hashing#:~:text=Hashing%20is%20the%20transformation%20of,it%20using%20the%20original%20value
 
-## CHECKPOINT 2
+## CHECKPOINT 2 (11th April - 6th June)
 
 ### Topic 1 :- _Image Processing_
 
