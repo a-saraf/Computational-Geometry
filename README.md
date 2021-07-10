@@ -45,3 +45,33 @@ Another famous method is the **Quick Hull** method in which firstly a rectangle 
 2. **Divide and Conquer :-** https://www.geeksforgeeks.org/convex-hull-using-divide-and-conquer-algorithm/
 3. **Hashing :-** https://searchsqlserver.techtarget.com/definition/hashing#:~:text=Hashing%20is%20the%20transformation%20of,it%20using%20the%20original%20value
 
+## CHECKPOINT 2
+
+### Topic 1 :- _Image Processing_
+
+Image processing using basic Python libraries such as NumPy and matplotlib. In this I learned to import and store images as arrays of numbers and display them accordingly. 
+All the different types of transformations I learned through this are-
+
+1. Image Filpping (both vertically and horizontally)
+2. Colour Inversion
+3. Comverting colour images to grayscale 
+4. Image Cropping 
+5. Image Scaling (both up and down)
+6. Blurring 
+7. Creating Borders using NumPy 
+8. Thresholding
+
+These are some of the basic image processing techniques used. All of these examples can be found in the Jupyter Notebook- Image Processing in Python without OpenCV.
+
+### Topic 2 :- _Image Processing Using OpenCV_
+
+OpenCV is a Python library widely used for image processing. It has built in functions which tackle most of the image processing issues. 
+Topic 2 was mainly focused on learning openCV and using it in Image Processing for all the dfferent above mentioned techniques. 
+All of the applications of this OpenCV library can be found in the Jupyter Notebook- Image Processing Using OpenCV. 
+
+### Topic 3 :- _Continung in OpenCV_
+
+In this topic we take upon some of the harder concepts of Image Processing such as scaling and Thresholding.
+We use different types of Thresholding types such as Otsu Thresholding and Simple Thresholding.
+Further in scaling =, we also loop upon rataing and translating images using OpenCV.
+Another concept we learnt in this was of the Histogram Equalisation, in this we somewhat equalize the contrast of the image across all the pixels.
