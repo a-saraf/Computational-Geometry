@@ -75,3 +75,19 @@ In this topic we take upon some of the harder concepts of Image Processing such 
 We use different types of Thresholding types such as Otsu Thresholding and Simple Thresholding.
 Further in scaling =, we also loop upon rataing and translating images using OpenCV.
 Another concept we learnt in this was of the Histogram Equalisation, in this we somewhat equalize the contrast of the image across all the pixels.
+
+### Websites used for some concepts
+
+1. OpenCV - https://docs.opencv.org/4.5.2/d9/df8/tutorial_root.html
+2. Thresholding - https://www.geeksforgeeks.org/python-thresholding-techniques-using-opencv-set-1-simple-thresholding/
+3. Otsu Thresholding - https://learnopencv.com/otsu-thresholding-with-opencv/
+
+# CHECKPOINT 3 (30th June - 15th July)
+
+### Topic 1 - _Edge Detection_
+
+In this topic I learned about the different edge detection methods used in Image Processing using OpenCV. 
+Two main different types of edge detection techniques widely used are -
+
+1. Canny Edge Detection
+2. Sobel Edge Detection 
