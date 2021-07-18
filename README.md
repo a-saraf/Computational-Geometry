@@ -103,3 +103,5 @@ Two main different types of edge detection techniques widely used are -
 A point cloud is a set of data points in space. The points may represent a 3D shape or object. Each point position has its set of Cartesian coordinates (X, Y, Z).[1] Point clouds are generally produced by 3D scanners or by photogrammetry software, which measure many points on the external surfaces of objects around them. As the output of 3D scanning processes, point clouds are used for many purposes, including to create 3D CAD models for manufactured parts, for metrology and quality inspection, and for a multitude of visualization, animation, rendering and mass customization applications.
 
 To use point clouds we use the software CloudCompare. 
+
+![CloudCompare](Images/2021-07-18.png?raw=true "Title")
