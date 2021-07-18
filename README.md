@@ -91,3 +91,15 @@ Two main different types of edge detection techniques widely used are -
 
 1. Canny Edge Detection
 2. Sobel Edge Detection 
+
+### Websites used for some concepts 
+
+1. OpenCV - https://docs.opencv.org/4.5.2/d9/df8/tutorial_root.html
+2. Canny - https://www.geeksforgeeks.org/implement-canny-edge-detector-in-python-using-opencv/
+3. Sobel - https://www.geeksforgeeks.org/python-program-to-detect-the-edges-of-an-image-using-opencv-sobel-edge-detection/
+
+### Topic 2 - _Point Clouds_
+
+A point cloud is a set of data points in space. The points may represent a 3D shape or object. Each point position has its set of Cartesian coordinates (X, Y, Z).[1] Point clouds are generally produced by 3D scanners or by photogrammetry software, which measure many points on the external surfaces of objects around them. As the output of 3D scanning processes, point clouds are used for many purposes, including to create 3D CAD models for manufactured parts, for metrology and quality inspection, and for a multitude of visualization, animation, rendering and mass customization applications.
+
+To use point clouds we use the software CloudCompare. 
